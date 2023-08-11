@@ -1,5 +1,7 @@
 # TodoApp
 
+## Live link 
+https://todo-app-amber-three-78.vercel.app/home
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
 
 ## Development server
